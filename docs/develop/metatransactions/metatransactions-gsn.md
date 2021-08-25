@@ -331,11 +331,11 @@ We're going to use `@opengsn/gsn` for installing these components in local block
 
 ```bash
 npx gsn deploy
-# for targetting another network, you need to 
+# for targeting another network, you need to 
 # check here https://docs.opengsn.org/gsn-provider/gsn-helpers.html#deploy
 ```
 
-For targetting Matic Testnet (sign up for a dedicated free Mumbai testnet RPC URL at https://rpc.maticvigil.com/ or other hosted node providers), use following command.
+For targeting Matic Testnet (sign up for a dedicated free Mumbai testnet RPC URL at https://rpc.maticvigil.com/ or other hosted node providers), use following command.
 
 ```bash
 npx gsn deploy --network <Mumbai testnet RPC URL>
