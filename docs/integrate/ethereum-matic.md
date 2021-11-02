@@ -43,6 +43,6 @@ We will deploy a Child Contract for you on Polygon which can be flexible based o
 
 7. If the users want to get back these Xtoken on Etheruem Chain, then call StartWithdraw which will withdraw from childTokenContract and Burn these tokens on Polygon Chain. To avoid any bad participation, A set of validation will take place. Once it is done the tokens will be available at Ethereum Chain.
 
-8. Call processExits() to recieve those tokens back to your EOA or your account address.
+8. Call processExits() to receive those tokens back to your EOA or your account address.
 
 9. You should see the 50 XToken on the Ethereum mainnet at you Account Address.
