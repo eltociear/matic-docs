@@ -232,8 +232,8 @@ and scheme** shown in the following table:
 
 ## Bond AVL tokens
 
-It is highly recommended that you set up a stash and controller account and have seperate key
-(two seperate accounts) for both.
+It is highly recommended that you set up a stash and controller account and have separate key
+(two separate accounts) for both.
 
 :::info Stash and Controller Keys
 
