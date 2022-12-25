@@ -17,7 +17,7 @@ Nightfall SDK is a Software Development Kit created for interacting with Polygon
 
 ## SDK overview
 
-The SDK provides the ablity to interact with the core features of the Nightfall Protocol:
+The SDK provides the ability to interact with the core features of the Nightfall Protocol:
 
 - Deposit ERC20, ERC721 and ERC1155 tokens from Ethereum L1 to Polygon Nightfall L2
 - Transfer ERC20, ERC721 and ERC1155 token commitments on Polygon Nightfall L2
